@@ -11,7 +11,19 @@
 ---
 
 ## 💡 About the Project
-Google Gemini Clone is a web application that mimics a modern AI chat assistant. Users can input prompts and receive AI-generated responses in real-time, with typing animations and interactive UI.
+Google Gemini Clone is a web-based AI chat application that mimics Google Gemini. Users can type prompts and receive AI-generated responses with a smooth typing animation.
+
+Key Features:
+
+Interactive chat interface with previous prompt tracking.
+
+Typing animation for AI responses.
+
+Modern UI with icons and responsive design.
+
+Secure backend integration with AI API using environment variables.
+
+Built with React.js (frontend) and Node.js/Express (backend), this project demonstrates full-stack development and AI API integration.
 
 ---
 
@@ -29,17 +41,6 @@ _Add your demo GIF or screenshot here to showcase the app._
 
 ---
 
-## 🖥 Installation & Setup
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/shivansh1609/Google-Gemini-Clone.git
-cd Google-Gemini-Clone
-### 2. Install dependencies
-
-# Frontend
-```bash
-cd geminiPro
-npm install
 
 
