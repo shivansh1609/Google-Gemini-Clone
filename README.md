@@ -35,4 +35,11 @@ _Add your demo GIF or screenshot here to showcase the app._
 ```bash
 git clone https://github.com/shivansh1609/Google-Gemini-Clone.git
 cd Google-Gemini-Clone
+### 2. Install dependencies
+
+# Frontend
+```bash
+cd geminiPro
+npm install
+
 
