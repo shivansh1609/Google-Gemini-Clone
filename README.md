@@ -34,10 +34,6 @@ Built with React.js (frontend) and Node.js/Express (backend), this project demon
 - Clean and responsive design  
 - Supports formatted text (**bold**, line breaks)  
 
----
-
-## ⚡ Demo
-_Add your demo GIF or screenshot here to showcase the app._
 
 ---
 
